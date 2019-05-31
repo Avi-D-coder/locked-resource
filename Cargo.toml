@@ -1,6 +1,6 @@
 [package]
 name = "locked-resource"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Avi ד"]
 edition = "2018"
 homepage = "https://github.com/Avi-D-coder/locked-resource"

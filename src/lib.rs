@@ -1,6 +1,6 @@
 use std::io::{Stdin, StdinLock};
 use std::mem::transmute;
-use std::ops::{Deref, DerefMut};
+pub use std::ops::{Deref, DerefMut};
 
 pub trait WithLock<'l> {
     type Lock;
